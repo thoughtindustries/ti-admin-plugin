@@ -1,0 +1,36 @@
+{
+  "name": "ti-plugins",
+  "description": "Official Thought Industries plugins for Claude — platform administration, course authoring, and content management.",
+  "owner": {
+    "name": "Thought Industries",
+    "email": "julien.denaes@thoughtindustries.com"
+  },
+  "plugins": [
+    {
+      "name": "ti-admin-plugin",
+      "source": ".",
+      "description": "Administer your Thought Industries platform from Claude — browse catalogs, author courses, rewrite content, manage learning experiences via the TI Incoming REST v2 API.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Thought Industries"
+      },
+      "homepage": "https://github.com/thoughtindustries/ti-admin-plugin",
+      "repository": "https://github.com/thoughtindustries/ti-admin-plugin",
+      "license": "MIT",
+      "keywords": [
+        "thought-industries",
+        "lms",
+        "course-authoring",
+        "admin",
+        "incoming-api"
+      ],
+      "category": "productivity",
+      "tags": [
+        "thought-industries",
+        "learning-platform",
+        "course-management",
+        "content-authoring"
+      ]
+    }
+  ]
+}

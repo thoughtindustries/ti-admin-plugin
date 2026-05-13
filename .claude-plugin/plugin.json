@@ -1,0 +1,27 @@
+{
+  "name": "ti-admin-plugin",
+  "description": "Claude plugin for Thought Industries platform administration. Browse catalogs, author courses, rewrite lessons, and manage content — all through the TI Incoming REST v2 API. Organized as Actions (single API calls), Routines (fixed sequences), and Playbooks (strategic workflows).",
+  "version": "0.1.0",
+  "author": {
+    "name": "Thought Industries",
+    "email": "julien.denaes@thoughtindustries.com"
+  },
+  "homepage": "https://github.com/thoughtindustries/ti-admin-plugin",
+  "repository": "https://github.com/thoughtindustries/ti-admin-plugin",
+  "license": "MIT",
+  "keywords": [
+    "thought-industries",
+    "course-authoring",
+    "ai-assistant",
+    "admin",
+    "incoming-api",
+    "actions",
+    "routines",
+    "playbooks"
+  ],
+  "skills": [
+    "./skills/actions/",
+    "./skills/routines/",
+    "./skills/playbooks/"
+  ]
+}

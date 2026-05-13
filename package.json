@@ -1,0 +1,10 @@
+{
+  "name": "@thoughtindustries/ti-admin-plugin",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Claude plugin for Thought Industries platform administration via the Incoming REST v2 API (Node 18+).",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
