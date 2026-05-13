@@ -8,29 +8,12 @@
   "plugins": [
     {
       "name": "ti-admin-plugin",
-      "source": ".",
+      "source": "./",
       "description": "Administer your Thought Industries platform from Claude — browse catalogs, author courses, rewrite content, manage learning experiences via the TI Incoming REST v2 API.",
       "version": "0.1.0",
       "author": {
         "name": "Thought Industries"
-      },
-      "homepage": "https://github.com/thoughtindustries/ti-admin-plugin",
-      "repository": "https://github.com/thoughtindustries/ti-admin-plugin",
-      "license": "MIT",
-      "keywords": [
-        "thought-industries",
-        "lms",
-        "course-authoring",
-        "admin",
-        "incoming-api"
-      ],
-      "category": "productivity",
-      "tags": [
-        "thought-industries",
-        "learning-platform",
-        "course-management",
-        "content-authoring"
-      ]
+      }
     }
   ]
 }
